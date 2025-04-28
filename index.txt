@@ -1,0 +1,6 @@
+  Throughout my journey, I have worked with various databases and backend
+  systems, applying statistical principles to ensure efficient data
+  storage,management, and retrieval. I am skilled in data modeling, writing and
+  optimizing queries, and version control using Git. I also understand
+  theimportance of documentation, backups, and user access control in
+  maintaining robust and secure data environments.
